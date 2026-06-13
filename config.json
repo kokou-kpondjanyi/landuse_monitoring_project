@@ -1,0 +1,11 @@
+{
+    "INPUT_DIR" : "data/input",
+    "OUTPUT_DIR": "data/output",
+    "ARCHIVE_DIR": "data/archive",
+    "CARTE_DIR_MALE": "data/output/carte_pop_masculine.png",
+    "CARTE_DIR_FEMALE": "data/output/carte_pop_feminine.png",
+    "OUTPUT_GRAPHIQUE": "data/output/graphique_population.png",
+    "epsg_target": 32631,
+    "log_file": "logs/run.log",
+    "filter": "code"
+}
