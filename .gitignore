@@ -1,0 +1,17 @@
+# Environnement virtuel Python
+geo/
+
+# Configuration éditeur
+.idea/
+.vscode/
+
+# On ignore le contenu des dossiers, MAIS on garde le dossier lui-même grâce au .gitkeep
+data/output/*
+!data/output/.gitkeep
+
+logs/*
+!logs/.gitkeep
+
+# Fichiers caches Python
+__pycache__/
+*.pyc
